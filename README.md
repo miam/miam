@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miam
-- 👀 I’m interested in engineering management
+- 👀 I’m interested in data topics
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me ...
