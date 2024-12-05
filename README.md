@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miam
 - 👀 I’m interested in data topics
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on computer vision
-- 📫 How to reach me ...
+- 🌱 I’m currently learning deep learning and data literacy
+- 💞️ I’m looking forward to implement computer vision projects
+- 📫 How to reach me? Linkedin
 
 <!---
 miam/miam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
